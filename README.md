@@ -85,6 +85,11 @@ These insights support business strategies focused on contract‑based retention
 * **Model Used:** Logistic Regression
 * **Reason:** Simple, interpretable, and effective for binary classification
 
+  ☁️ Cloud Integration (AWS)
+
+AWS S3 was used to store cleaned datasets and machine learning outputs. This simulates a real-world data pipeline where analytical results are stored in cloud storage for further reporting and business use.
+
+
 ### Steps:
 
 * Feature scaling using StandardScaler
@@ -126,3 +131,4 @@ This project showcases an end‑to‑end **data analytics + machine learning wor
 **Damanpreet Kaur**
 Master of Computer Science
 Aspiring Data Analyst / ML Enthusiast
+
